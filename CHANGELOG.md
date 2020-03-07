@@ -1,5 +1,56 @@
 # Cuba Weather Dart Changelog
 
+## [3.0.3] - March 7, 2020
+
+* Remove unnecessary new keyword
+
+## [3.0.2] - March 6, 2020
+
+* Export modules
+
+## [3.0.1] - March 3, 2020
+
+* Add new state to insmet and fix descriptions
+
+## [3.0.0] - March 3, 2020
+
+* Implement insmet today forecast
+* Implement insmet tomorrow forecast
+* Implement insmet perspective forecast
+* Implement insmet marine forecast
+
+## [2.6.0] - March 3, 2020
+
+* Make package atomic
+* Remove another dependencies
+* Fix name of municipalities
+
+## [2.5.1] - February 9, 2020
+
+* Update dependencies
+
+## [2.5.0] - February 4, 2020
+
+* Update dependencies
+
+## [2.4.0] - February 4, 2020
+
+* Add radians and degree of wind
+
+## [2.3.0] - January 27, 2020
+
+* Add all directions of wind
+
+## [2.2.0] - January 27, 2020
+
+* Implement parse for wind direction
+
+## [2.1.0] - January 26, 2020
+
+* Get today's weather forecast information
+* Get drought status information
+* Get description state information
+
 ## [2.0.1] - January 26, 2020
 
 * Implement windstring parser for obtain velocity and direction of wind
